@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **improving my expertise**
 
-- 👯 I’m looking to collaborate on **any data-related projects**
+- 👯 I’m looking to collaborate on **any data-related and web development projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
