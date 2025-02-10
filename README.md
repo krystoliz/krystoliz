@@ -19,7 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krystoliz&show_icons=true&locale=en" alt="krystoliz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krystoliz&" alt="krystoliz" /></p>
-<h1 align="center">STAN LOONA</h1>
+<!-- <h1 align="center">STAN LOONA</h1>
 <p align="center">
   <a href="https://michaelbull.github.io/loona-intro-generator/"><img src="https://github.com/michaelbull/loona-intro-generator/raw/master/assets/preview-loona.gif" alt="Preview" /></a>
-</p>
+</p> -->
